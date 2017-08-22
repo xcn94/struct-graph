@@ -6,6 +6,7 @@ int main(){
 	indirGraph<int> G;
 	f>>G;
 	G.printEdge();
+	G.printNeighbor(2);
 	system("pause");
 	return 0;
 }
