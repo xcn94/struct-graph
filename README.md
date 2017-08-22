@@ -1,5 +1,5 @@
-options(encoding "utf-8")
-#ͼ�ṹ
-- ���ͼ�ṹ�Ķ��嶼�� >graph.h �ļ���
-- main.cpp���ṩһЩ��������
+
+#图结构
+- 相关图结构的定义都在 >graph.h 文件中
+- main.cpp中提供一些测试样例
 
